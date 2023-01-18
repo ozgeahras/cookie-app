@@ -8,7 +8,7 @@ const declineEl = document.getElementById("decline");
 
 setTimeout(function () {
   modalElement.style.display = "inline";
-}, 1500);
+}, 1600);
 
 closeBtnEl.addEventListener("click", closeModal);
 
