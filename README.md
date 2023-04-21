@@ -53,7 +53,7 @@ npm run start
 
 ## Screenshots
 
-![App Screenshot](https://github.com/ozgeahras/cookie-app/blob/main/images/screenshot.png)
+![App Screenshot](https://raw.githubusercontent.com/ozgeahras/cookie-app/third/images/screenshot.png)
 
 ## About Me
 
